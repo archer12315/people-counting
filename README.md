@@ -2,6 +2,7 @@
 MECH4100 People Counting using TOF demo 
 
 # Requirements
+Ubuntu 16.04/18.04
 Python 3+
 
 # Install Dependencies
